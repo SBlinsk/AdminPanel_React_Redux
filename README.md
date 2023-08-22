@@ -1,2 +1,1 @@
-# AdminPanel_React_Redux
-Heroes administration panel
+This is test project with hero admin panel!
