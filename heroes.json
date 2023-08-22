@@ -11,32 +11,44 @@
       "name": "Vasya",
       "description": "buhat",
       "element": "water"
+    },
+    {
+      "id": "eba2718a-0dcd-41f7-871e-adb681f3d803",
+      "name": "ede",
+      "description": "dede",
+      "element": "wind"
+    },
+    {
+      "id": "6235cea3-8537-4840-9f14-a08499048094",
+      "name": "ede",
+      "description": "ede",
+      "element": "water"
     }
   ],
   "filters": [
     {
       "name": "all",
-      "label": "Все",
+      "label": "all",
       "className": "btn-outline-dark"
     },
     {
       "name": "fire",
-      "label": "Огонь",
+      "label": "fire",
       "className": "btn-danger"
     },
     {
       "name": "water",
-      "label": "Вода",
+      "label": "water",
       "className": "btn-primary"
     },
     {
       "name": "wind",
-      "label": "Ветер",
+      "label": "wind",
       "className": "btn-success"
     },
     {
       "name": "earth",
-      "label": "Земля",
+      "label": "earth",
       "className": "btn-secondary"
     }
   ]
